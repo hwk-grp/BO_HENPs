@@ -5,7 +5,9 @@ This repository is for sample Python codes used to optimize catalyst composition
 Requirements
 ---------
 scikit-learn
+
 numpy
+
 pandas
 
 The 1st Round
